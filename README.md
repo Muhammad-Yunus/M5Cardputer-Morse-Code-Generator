@@ -7,7 +7,7 @@
 
 <p align="center"><img src="docs/banner.jpg" alt="banner" style="max-width:60%"></p>
 
-A Morse code translator for the **M5Stack Cardputer v1.1 (K132)** running MicroPython / UIFlow2. Type text (A-Z, 0-9), see the Morse code on screen, and hear it played through the built-in speaker with PCM sine-wave audio.
+A Morse code generator for the **M5Stack Cardputer v1.1 (K132)** running MicroPython / UIFlow2. Type text (A-Z, 0-9), see the Morse code on screen, and hear it played through the built-in speaker with PCM sine-wave audio.
 
 ---
 
